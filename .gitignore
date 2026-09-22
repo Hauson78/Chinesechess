@@ -1,0 +1,19 @@
+# 测试与开发辅助文件（不影响主产物 index.html）
+_engine.js
+_test.js
+_sim_test.js
+_sp.js
+_xtest.js
+_xt.js
+_horse.js
+_auto.js
+_self.js
+_h.js
+_screenshot.jpg
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
